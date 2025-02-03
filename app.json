@@ -23,6 +23,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5a0851c8-d48d-4ba8-abe8-ff532a68a64e"
+      }
+    },
+    "owner": "claudiecodes",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5a0851c8-d48d-4ba8-abe8-ff532a68a64e"
     }
   }
 }
